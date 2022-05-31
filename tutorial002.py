@@ -41,3 +41,34 @@ x += 3 # same as x = x + 3
 
        # In Python, the order of operations is applied.
 print(x)
+
+# 17 Math Functions
+pi = 3.14
+print(round(pi))
+# abs() # absolute value
+# Import the Math module for more Math Functions
+# import math
+# math.ceil()
+# math.floor()
+# You can use the Python Docs to see the list of functions
+
+# 18 If Statements
+# status = "cold"
+
+# if status == "hot":
+#        print("It's a hot day")
+# elif status == "warm":
+#        print("It's warm")
+# else:
+#        print("It's a cold day")
+
+is_hot = False
+is_cold = False
+
+if is_hot:
+       print("Hot")
+elif is_cold:
+       print("Cold")
+else:
+       print("Warm")
+print("Enjoy your day!")
