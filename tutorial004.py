@@ -35,9 +35,6 @@
 # for item in range(5, 105, 5):
 #     print(item)
 
-from xml.etree.ElementPath import xpath_tokenizer
-
-
 prices = [10, 20, 30]
 total = 0
 for price in prices:
