@@ -1,6 +1,6 @@
 # 45 Packages
 from ecommerce.shipping import calc_shipping
-# from ecommeerce import shipping
+# from ecommerce import shipping
 # shipping.calc_shipping()
 calc_shipping()
 
